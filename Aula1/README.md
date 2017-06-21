@@ -71,8 +71,6 @@ Os seus arquivos e funcionalidades são as seguintes:
 
 [Introdução](https://github.com/kassiacatarine/PureScript-Tutorial/blob/master/README.md)
 
-[< Aula Anterior]()
-|
 [Proxima Aula >]()
 
 ## Referências
