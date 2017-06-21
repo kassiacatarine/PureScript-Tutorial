@@ -60,8 +60,7 @@ Os seus arquivos e funcionalidades são as seguintes:
     
     src/Main.purs - Arquivo de ponto de entrada do projeto
     
-    test/ - Diretório onde ficará os arquivos de 
-    teste do site
+    test/ - Diretório onde ficará os arquivos de teste do site
     
     test/Main.purs - Arquivo de teste vazio
 

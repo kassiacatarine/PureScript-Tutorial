@@ -57,7 +57,8 @@ A instalação da ferramenta de compilação Pulp é realizada por meio do pacot
     npm install -g pulp
 
 É fortemente recomendado a instalação do `bower`, pois ele gerencia os downloads de pacotes necessários. Instale ele com o seguinte comando:
-npm install -g bower
+    
+    npm install -g bower
 
 ## Fontes de Estudo
 
