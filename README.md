@@ -9,8 +9,7 @@
 
 ### Instalação do PureScript
 
-A instalação do compilador PureScript é feita das 
-seguintes formas:
+A instalação do compilador PureScript pode ser feita das seguintes formas:
 
 #### Binários
 
@@ -65,11 +64,11 @@ A instalação da ferramenta de compilação Pulp é realizada por meio do pacot
 
 ## Navegação
 
-[Proxima Aula >](https://github.com/kassiacatarine/PureScript-Tutorial/blob/master/Aula1/README.md)
+[Proxima Aula >](https://github.com/kassiacatarine/PureScript-Tutorial/tree/master/Aula1)
 
 ### Índice das Aulas
 
-[Aula 1](https://github.com/kassiacatarine/PureScript-Tutorial/blob/master/Aula1/README.md)
+[Aula 1](https://github.com/kassiacatarine/PureScript-Tutorial/tree/master/Aula1)
 
 [Aula 2]()
 
