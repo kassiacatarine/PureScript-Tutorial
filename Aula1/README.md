@@ -123,6 +123,7 @@ A utilização do modo interativo é simples, dependendo do que for testar é ne
     2 - Teste uma conta simples
 
         > 1 + 2
+        3
 
     3 - Defina uma função
 
@@ -143,4 +144,4 @@ Assim conseguimos utilizar o modo interativo para teste de códigos.
 
 [Introdução](https://github.com/kassiacatarine/PureScript-Tutorial)
 
-[Proxima Aula >]()
+[Proxima Aula >](https://github.com/kassiacatarine/PureScript-Tutorial/tree/master/Aula2)

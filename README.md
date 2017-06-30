@@ -70,7 +70,7 @@ A instalação da ferramenta de compilação Pulp é realizada por meio do pacot
 
 [Aula 1](https://github.com/kassiacatarine/PureScript-Tutorial/tree/master/Aula1)
 
-[Aula 2]()
+[Aula 2](https://github.com/kassiacatarine/PureScript-Tutorial/tree/master/Aula2)
 
 [Aula 3]()
 
