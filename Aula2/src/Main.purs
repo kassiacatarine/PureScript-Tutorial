@@ -1,9 +1,8 @@
 module Main where
 
-import Prelude
-import Control.Monad.Eff (Eff)
-import Control.Monad.Eff.Console (CONSOLE, log)
+import OutWatch.Tags (h1) as H
+import OutWatch.Attributes (text)
+import OutWatch.Core (render) as OutWatch
 
-main :: forall e. Eff (console :: CONSOLE | e) Unit
 main = do
-  log "Hello sailor!"
+  OutWatch.render "#app" (H.h1 [text "Hello, World!"])
