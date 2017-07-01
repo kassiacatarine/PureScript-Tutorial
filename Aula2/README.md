@@ -67,7 +67,7 @@ O que queremos é renderizar a mensagem "Hello, Word!" em um código html, entã
     main = do
         OutWatch.render "#app" (H.h1 [text "Hello, World!"])
 
-Como dar para ver no início exite uma declaração que o arquivo é o modulo Main. A seguir importamos do OutWatch as partes responsáveis por cuidar do html, tais como o `h1` e etc. Após importamos, falamos que o main irá renderizar em uma `div` chamada `app` o texto contido após o atributo `text`.
+Como dar para ver no início existe uma declaração que o arquivo é o modulo Main. A seguir importamos do OutWatch as partes responsáveis por cuidar do html, tais como o `h1` e etc. Após importamos, falamos que o main irá renderizar em uma `div` chamada `app` o texto contido após o atributo `text`.
 
 #### Criando arquivos para web
 
@@ -126,4 +126,4 @@ Esse comando ficará sendo executado no seu terminal e para que haja o carregame
 
 [< Aula Anterior](https://github.com/kassiacatarine/PureScript-Tutorial/tree/master/Aula1)
 |
-[Proxima Aula >]()
+[Proxima Aula >](https://github.com/kassiacatarine/PureScript-Tutorial/tree/master/Aula3)
