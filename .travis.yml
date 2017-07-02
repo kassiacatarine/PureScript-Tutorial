@@ -7,13 +7,12 @@ install:
   - npm install -g bower purescript pulp
   - npm install rxjs snabbdom
 
-
-before_script:
-  - cd site
-
 script:
   - bower install
-  - pulp test
+  - cd Aula1 && pulp test
+  - cd Aula2 && pulp test
+  - cd Aula3 && pulp test
+  
 
 #after_success:
 #- >-
