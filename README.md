@@ -1,4 +1,5 @@
 # PureScript Tutorial
+[![Build Status](https://travis-ci.org/kassiacatarine/PureScript-Tutorial.svg?branch=master)](https://travis-ci.org/kassiacatarine/PureScript-Tutorial)
 ## Sobre o PureScript
 
 ## Introdução

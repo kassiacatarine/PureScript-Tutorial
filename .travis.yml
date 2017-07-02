@@ -3,13 +3,13 @@ dist: trusty
 sudo: required
 node_js: stable
 
+before_install:
+  -cd site
+
 install:
   - npm install -g bower purescript pulp
   - npm install rxjs snabbdom
   - bower install
-
-after-script:
-  - cd site
   
 script:
   - pulp test
