@@ -8,6 +8,9 @@ install:
   - npm install rxjs snabbdom
   - bower install
 
+after-script:
+  - cd site
+  
 script:
   - pulp test
 
