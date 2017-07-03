@@ -6,6 +6,8 @@
 
 ## Sobre o Tutorial
 
+O tutorial será uma breve introdução de como começar a codificar com o purescript para web, indo da instalação até alguns passos mais básico, para que você tenha uma base de por onde e como começar.
+
 ## Instalação
 
 ### Instalação do PureScript
@@ -62,6 +64,18 @@ A instalação da ferramenta de compilação Pulp é realizada por meio do pacot
 
 ## Fontes de Estudo
 
+https://leanpub.com/purescript/read
+
+https://github.com/purescript/documentation
+
+https://pursuit.purescript.org/
+
+https://outwatch.github.io/
+
+https://github.com/pierrebeaucamp/purescript-tutorial
+
+https://github.com/adkelley/javascript-to-purescript
+
 
 ## Navegação
 
@@ -75,7 +89,6 @@ A instalação da ferramenta de compilação Pulp é realizada por meio do pacot
 
 [Aula 3](https://github.com/kassiacatarine/PureScript-Tutorial/tree/master/Aula3)
 
-[Aula 4](https://github.com/kassiacatarine/PureScript-Tutorial/tree/master/Aula4)
 
 ## Referências
 
