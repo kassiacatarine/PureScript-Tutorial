@@ -1,0 +1,15 @@
+language: node_js
+dist: trusty
+sudo: required
+node_js: stable
+
+install:
+  - npm install -g bower purescript pulp
+  - npm install rxjs snabbdom
+
+before_script:
+  - cd Aula3
+
+script:
+  - bower install
+  - pulp test
