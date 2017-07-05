@@ -1,5 +1,7 @@
 # PureScript Tutorial
 [![Build Status](https://travis-ci.org/kassiacatarine/PureScript-Tutorial.svg?branch=master)](https://travis-ci.org/kassiacatarine/PureScript-Tutorial)
+[![Code Climate](https://codeclimate.com/github/kassiacatarine/PureScript-Tutorial/badges/gpa.svg)](https://codeclimate.com/github/kassiacatarine/PureScript-Tutorial)
+[![Test Coverage](https://codeclimate.com/github/kassiacatarine/PureScript-Tutorial/badges/coverage.svg)](https://codeclimate.com/github/kassiacatarine/PureScript-Tutorial/coverage)
 ## Sobre o PureScript
 
 ## Introdução

@@ -10,6 +10,9 @@ install:
 before_script:
   - cd Aula3
 
+env:
+  CODECLIMATE_REPO_TOKEN: 0858b8920b959b565afe572f4e20e597815bf8e29d9ded6a37965e17a978f64d
+
 script:
   - bower install
   - pulp test
