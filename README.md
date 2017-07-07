@@ -2,13 +2,29 @@
 [![Build Status](https://travis-ci.org/kassiacatarine/PureScript-Tutorial.svg?branch=master)](https://travis-ci.org/kassiacatarine/PureScript-Tutorial)
 [![Code Climate](https://codeclimate.com/github/kassiacatarine/PureScript-Tutorial/badges/gpa.svg)](https://codeclimate.com/github/kassiacatarine/PureScript-Tutorial)
 [![Test Coverage](https://codeclimate.com/github/kassiacatarine/PureScript-Tutorial/badges/coverage.svg)](https://codeclimate.com/github/kassiacatarine/PureScript-Tutorial/coverage)
+
+![PureScript](https://github.com/kassiacatarine/PureScript-Tutorial/blob/master/imagem/purescript.jpg)
+
+Iniciando uma aplicação web com o PureScript.
+
+
 ## Sobre o PureScript
 
-## Introdução
+O PureScript é uma liguagem funcional compilável, ela é derivada do javascript, assim existe uma grande semelhança na sintaxe das duas liguagem. Apesar de ser uma liguagem relativamente nova o purescript possui uma grande quantidade de bibliotecas, assim possibilitando o desenvolvimento em diversas áreas, como em aplicações web, servidores web, jogos e etc.
+
+### Por que o PureScript?
+
+- O PureScript possibilita ao usuário a escrita de funções simples de uma maneira funcional, ela não aceita multi paradigmas, assim sendo mais fácil focar somente na programação funcional, diferente do que acontece quando utiliza-se o próprio JavaScript.
+
+- O PureScript é uma liguagem a parte do javascript, mas ele disponibiliza uma função em seu compilador que possibilita a transformação de um código em purescript para javascript, fazendo que assim o desenvolvimento web seja possível.
+
+- O PureScript possui sintaxe leve, o que nos permite escrever código muito expressivo que ainda é claro e legível. Ele usa um sistema de tipo rico para suportar abstrações poderosas. Ele também gera código rápido e compreensível, o que é importante ao interoperar com o JavaScript ou outras linguas que compilam para JavaScript.
+
+- O PureScript é um idioma estaticamente digitado, o que significa que um programa correto pode receber um tipo pelo compilador que indica seu comportamento. Por outro lado, os programas que não podem receber um tipo são programas incorretos e serão rejeitados pelo compilador. No PureScript, ao contrário de linguagens dinamicamente digitadas, os tipos existem apenas em tempo de compilação e não têm representação em tempo de execução.
 
 ## Sobre o Tutorial
 
-O tutorial será uma breve introdução de como começar a codificar com o purescript para web, indo da instalação até alguns passos mais básico, para que você tenha uma base de por onde e como começar.
+O tutorial será uma breve introdução de como começar a codificar com o purescript para web, indo da instalação até alguns passos mais básico, para que você tenha uma base de por onde e como começar a sua aplicação.
 
 ## Instalação
 
