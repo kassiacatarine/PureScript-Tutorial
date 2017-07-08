@@ -4,6 +4,7 @@
 [![codecov](https://codecov.io/gh/kassiacatarine/PureScript-Tutorial/branch/master/graph/badge.svg)](https://codecov.io/gh/kassiacatarine/PureScript-Tutorial)
 [![Docker Build Automated](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r//kassiacatarine/purescript/builds/)
 [![Docker Build Status](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r//kassiacatarine/purescript/builds/)
+[![GitHub io](https://img.shields.io/badge/github.io-active-brightgreen.svg)](https://kassiacatarine.github.io/PureScript-Tutorial/)
 
 ![PureScript](https://github.com/kassiacatarine/PureScript-Tutorial/blob/master/imagem/purescript.jpg)
 
