@@ -1,0 +1,26 @@
+version: "2"
+services:
+  test:
+    container_name: purescript_test
+    build: .
+    user: user
+    working_dir: /home/purescript
+    volumes:
+      - ./Aula3/bower.json:/home/purescript/bower.json
+      - ./Aula3/src:/home/purescript/src
+      - ./Aula3/test:/home/purescript/test
+    command: sh -c "bower install && pulp build --censor-lib && pulp test"
+  web:
+    container_name: purescript_web  
+    build: .
+    user: user
+    working_dir: /home/purescript
+    volumes:
+      - ./Aula3/bower.json:/home/purescript/bower.json
+      - ./Aula3/src:/home/purescript/src
+      - ./Aula3/test:/home/purescript/test
+      - ./Aula3/dist:/home/purescript/
+      - /home/purescript/bower_components/
+    command: sh -c "bower install && pulp browserify -O -t index.js && pulp server"
+    ports:
+      - "1337:1337"

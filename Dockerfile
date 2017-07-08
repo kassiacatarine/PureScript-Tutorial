@@ -12,6 +12,12 @@ RUN cd /opt \
     && tar -xvf linux64.tar.gz \
     && rm /opt/linux64.tar.gz
 
+RUN adduser --disabled-password --gecos '' user && \
+    adduser user sudo && \
+    echo '%sudo ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
+RUN mkdir /home/purescript \
+    && chown -R user /home/purescript
+
 ENV PATH /opt/purescript:$PATH
 
 CMD ["/opt/purescript/psci"]
