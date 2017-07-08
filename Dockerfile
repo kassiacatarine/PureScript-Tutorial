@@ -15,6 +15,7 @@ RUN cd /opt \
 RUN adduser --disabled-password --gecos '' user && \
     adduser user sudo && \
     echo '%sudo ALL=(ALL) NOPASSWD:ALL' >> /etc/sudoers
+    
 RUN mkdir /home/purescript \
     && chown -R user /home/purescript
 
