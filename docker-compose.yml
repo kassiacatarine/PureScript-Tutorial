@@ -20,7 +20,6 @@ services:
       - ./Aula3/src:/home/purescript/src
       - ./Aula3/test:/home/purescript/test
       - ./Aula3/dist:/home/purescript/
-      - /home/purescript/bower_components/
-    command: sh -c "bower install && pulp browserify -O -t index.js && pulp server"
+    command: sh -c "bower install && pulp browserify -O -t app.js && pulp server"
     ports:
       - "1337:1337"

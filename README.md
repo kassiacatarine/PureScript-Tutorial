@@ -1,7 +1,6 @@
 # PureScript Tutorial
 [![Build Status](https://travis-ci.org/kassiacatarine/PureScript-Tutorial.svg?branch=master)](https://travis-ci.org/kassiacatarine/PureScript-Tutorial)
 [![Code Climate](https://codeclimate.com/github/kassiacatarine/PureScript-Tutorial/badges/gpa.svg)](https://codeclimate.com/github/kassiacatarine/PureScript-Tutorial)
-[![Test Coverage](https://codeclimate.com/github/kassiacatarine/PureScript-Tutorial/badges/coverage.svg)]([!
 [![codecov](https://codecov.io/gh/kassiacatarine/PureScript-Tutorial/branch/master/graph/badge.svg)](https://codecov.io/gh/kassiacatarine/PureScript-Tutorial)
 [![Docker Build Automated](https://img.shields.io/docker/automated/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r//kassiacatarine/purescript/builds/)
 [![Docker Build Status](https://img.shields.io/docker/build/jrottenberg/ffmpeg.svg)](https://hub.docker.com/r//kassiacatarine/purescript/builds/)
